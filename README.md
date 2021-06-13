@@ -16,7 +16,7 @@ Unfortunately, unlike the criminal justice system (which can be accessed by dial
 
 The approach of this platform is using an approach by The Chrysalis Collective which was found in The Revolution Starts at Home. The book says that "The Chrysalis Collective was formed when a friend and member of the community experienced rape by another local activist."
 
-The accountability and healing approach from The Chrysalis Collective involves 8 steps.
+## The accountability and healing approach from The Chrysalis Collective involves 8 steps:
 
 1. Gathering: forming a survivor support team
 2. Explanding: forming an accountability team
@@ -26,6 +26,11 @@ The accountability and healing approach from The Chrysalis Collective involves 8
 6. Building: the first meeting
 7. Transforming: meetings with the accountability team
 8. Evaluating: lessons learned
+
+## Features
+
+1. User login for suvivors and support team
+1. Invitation capabilities for suvivors to invite allies to their support team
 
 For more information: https://www.akpress.org/revolutionstartsathome.html
 
